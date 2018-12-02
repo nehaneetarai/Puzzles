@@ -55,6 +55,7 @@
     <Compile Include="Tasks\Microsoft\Inheritance\MsTwo.cs" />
     <Compile Include="Tasks\Microsoft\Inheritance\NewModifier.cs" />
     <Compile Include="Tasks\Microsoft\MainMethod\MsFive.cs" />
+    <Compile Include="Tasks\Microsoft\NullCheck\MsNine.cs" />
     <Compile Include="Tasks\NoOfMarkers.cs" />
     <Compile Include="Tasks\QueensMoves.cs" />
     <Compile Include="Tasks\TopViewBT.cs" />

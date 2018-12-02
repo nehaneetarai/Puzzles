@@ -4,6 +4,7 @@ using Puzzles.Tasks.Microsoft.Delegates;
 using Puzzles.Tasks.Microsoft.Exception;
 using Puzzles.Tasks.Microsoft.Inheritance;
 using Puzzles.Tasks.Microsoft.MainMethod;
+using Puzzles.Tasks.Microsoft.NullCheck;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,8 +38,11 @@ namespace Puzzles
             //MsSeven m7 = new MsSeven();
             //m7.MsSevenMain();
 
-            MsEight m8 = new MsEight();
-            m8.MsEightMain();
+            //MsEight m8 = new MsEight();
+            //m8.MsEightMain();
+
+            //MsNine m9 = new MsNine();
+            //m9.MsNineMain();
 
             // Dev Change from GUI to local comment
             ArrayContentCountSorting a = new ArrayContentCountSorting();
