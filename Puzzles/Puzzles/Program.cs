@@ -1,4 +1,5 @@
 ﻿using Puzzles.Tasks;
+using Puzzles.Tasks.Microsoft.AsyncTask;
 using Puzzles.Tasks.Microsoft.Constructor;
 using Puzzles.Tasks.Microsoft.Delegates;
 using Puzzles.Tasks.Microsoft.Exception;
@@ -44,8 +45,10 @@ namespace Puzzles
             //MsNine m9 = new MsNine();
             //m9.MsNineMain();
 
-            // Dev Change from GUI to local comment
-            ArrayContentCountSorting a = new ArrayContentCountSorting();
+            MsTen m10 = new MsTen();
+            m10.MsTenMain();
+
+            //ArrayContentCountSorting a = new ArrayContentCountSorting();
 
         }
 
