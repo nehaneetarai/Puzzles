@@ -7,3 +7,6 @@ F:\MySpace\Technical\POC's\Puzzles\Puzzles\obj\Debug\Puzzles.pdb
 C:\Users\anusi\Source\Repos\Puzzles\Puzzles\Puzzles\bin\Debug\Puzzles.exe.config
 C:\Users\anusi\Source\Repos\Puzzles\Puzzles\Puzzles\obj\Debug\Puzzles.exe
 C:\Users\anusi\Source\Repos\Puzzles\Puzzles\Puzzles\obj\Debug\Puzzles.pdb
+C:\Users\anusi\Source\Repos\Puzzles\Puzzles\Puzzles\bin\Debug\Puzzles.exe
+C:\Users\anusi\Source\Repos\Puzzles\Puzzles\Puzzles\bin\Debug\Puzzles.pdb
+C:\Users\anusi\Source\Repos\Puzzles\Puzzles\Puzzles\obj\Debug\Puzzles.csprojResolveAssemblyReference.cache
