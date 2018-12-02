@@ -58,6 +58,7 @@
     <Compile Include="Tasks\Microsoft\Inheritance\NewModifier.cs" />
     <Compile Include="Tasks\Microsoft\MainMethod\MsFive.cs" />
     <Compile Include="Tasks\Microsoft\NullCheck\MsNine.cs" />
+    <Compile Include="Tasks\Microsoft\Struct\MsSeventeen.cs" />
     <Compile Include="Tasks\NoOfMarkers.cs" />
     <Compile Include="Tasks\QueensMoves.cs" />
     <Compile Include="Tasks\TopViewBT.cs" />
@@ -129,6 +130,7 @@
     <Content Include="Problems\Shift\Screenshot 2018-02-18 17.54.26.png" />
     <Content Include="Problems\Shift\Screenshot 2018-02-18 17.54.33.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
