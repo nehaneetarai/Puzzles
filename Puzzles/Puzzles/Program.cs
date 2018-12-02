@@ -45,8 +45,11 @@ namespace Puzzles
             //MsNine m9 = new MsNine();
             //m9.MsNineMain();
 
-            MsTen m10 = new MsTen();
-            m10.MsTenMain();
+            //MsTen m10 = new MsTen();
+            //m10.MsTenMain();
+
+            MsEleven m11 = new MsEleven();
+            m11.MsElevenMain();
 
             //ArrayContentCountSorting a = new ArrayContentCountSorting();
 

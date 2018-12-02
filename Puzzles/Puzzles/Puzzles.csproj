@@ -50,6 +50,7 @@
     <Compile Include="Tasks\Microsoft\AsyncTask\MsTen.cs" />
     <Compile Include="Tasks\Microsoft\Constructor\MsFour.cs" />
     <Compile Include="Tasks\Microsoft\Delegates\MsEight.cs" />
+    <Compile Include="Tasks\Microsoft\Delegates\MsEleven.cs" />
     <Compile Include="Tasks\Microsoft\Exception\MsSeven.cs" />
     <Compile Include="Tasks\Microsoft\Inheritance\MsOne.cs" />
     <Compile Include="Tasks\Microsoft\Inheritance\MsThree.cs" />
