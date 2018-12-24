@@ -61,6 +61,7 @@
     <Compile Include="Tasks\Microsoft\Struct\MsSeventeen.cs" />
     <Compile Include="Tasks\NoOfMarkers.cs" />
     <Compile Include="Tasks\QueensMoves.cs" />
+    <Compile Include="Tasks\RollingString.cs" />
     <Compile Include="Tasks\TopViewBT.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -125,10 +126,42 @@
     <Content Include="Problems\NoOfMarkers\Screenshot 2018-11-08 22.00.39.png" />
     <Content Include="Problems\NoOfMarkers\Screenshot 2018-11-08 22.00.49.png" />
     <Content Include="Problems\NoOfMarkers\Screenshot 2018-11-08 22.01.06.png" />
+    <Content Include="Problems\OperatorOverloading\Screenshot 2018-12-23 21.55.01.png" />
+    <Content Include="Problems\OperatorOverloading\Screenshot 2018-12-23 21.55.35.png" />
+    <Content Include="Problems\OperatorOverloading\Screenshot 2018-12-23 21.55.51.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.49.31.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.49.47.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.49.55.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.50.04.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.50.11.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.50.27.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.50.35.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.50.44.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.50.52.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.51.16.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.51.26.png" />
+    <Content Include="Problems\PrisonBreak\Screenshot 2018-12-23 21.51.34.png" />
+    <Content Include="Problems\RollingString\Screenshot 2018-12-23 21.51.47.png" />
+    <Content Include="Problems\RollingString\Screenshot 2018-12-23 21.52.03.png" />
+    <Content Include="Problems\RollingString\Screenshot 2018-12-23 21.52.10.png" />
+    <Content Include="Problems\RollingString\Screenshot 2018-12-23 21.52.16.png" />
+    <Content Include="Problems\RollingString\Screenshot 2018-12-23 21.52.27.png" />
+    <Content Include="Problems\RollingString\Screenshot 2018-12-23 21.52.41.png" />
+    <Content Include="Problems\RollingString\Screenshot 2018-12-23 21.52.57.png" />
     <Content Include="Problems\Shift\Screenshot 2018-02-18 17.53.59.png" />
     <Content Include="Problems\Shift\Screenshot 2018-02-18 17.54.11.png" />
     <Content Include="Problems\Shift\Screenshot 2018-02-18 17.54.26.png" />
     <Content Include="Problems\Shift\Screenshot 2018-02-18 17.54.33.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.53.16.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.53.29.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.53.36.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.53.45.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.53.54.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.54.01.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.54.08.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.54.21.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.54.32.png" />
+    <Content Include="Problems\TheDuel\Screenshot 2018-12-23 21.54.40.png" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

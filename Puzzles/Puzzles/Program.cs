@@ -48,11 +48,13 @@ namespace Puzzles
             //MsTen m10 = new MsTen();
             //m10.MsTenMain();
 
-            MsEleven m11 = new MsEleven();
-            m11.MsElevenMain();
+            //MsEleven m11 = new MsEleven();
+            //m11.MsElevenMain();
 
             //ArrayContentCountSorting a = new ArrayContentCountSorting();
 
+            RollingString rs = new RollingString();
+            string test = rs.rollString("babymonster", new List<string>());
         }
 
         //static int Main(string[] args)
