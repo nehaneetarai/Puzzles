@@ -54,7 +54,7 @@ namespace Puzzles
             //ArrayContentCountSorting a = new ArrayContentCountSorting();
 
             RollingString rs = new RollingString();
-            string test = rs.rollString("babymonster", new List<string>());
+            string test = rs.rollString("babybabymonster", new List<string>());
         }
 
         //static int Main(string[] args)
